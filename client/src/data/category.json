@@ -1,0 +1,28 @@
+{
+    "category":[
+       {
+        "name":"smartphones",
+        "slug":"smartphones"
+       },
+       {
+        "name":"laptops",
+        "slug":"laptops"
+       },
+       {
+        "name":"fragrances",
+        "slug":"fragrances"
+       },
+       {
+        "name":"home-decoration",
+        "slug":"home-decoration"
+       },
+       {
+        "name": "groceries",
+        "slug": "groceries"
+       },
+       {
+        "name":"skincare",
+        "slug":"skincare"
+       }
+    ]
+}
